@@ -75,7 +75,8 @@ export default function AboutPage() {
 
           <div className="bg-gradient-to-br from-amber-50 to-rose-50 rounded-3xl p-8 lg:p-12 shadow-lg">
             <p className="text-xl lg:text-2xl text-gray-700 leading-relaxed text-center italic">
-              "This is more than a shop. It&apos;s a love letter to home."
+              &qout;This is more than a shop. It&apos;s a love letter to
+              home.&quot;
             </p>
 
             <div className="mt-8 space-y-4 text-gray-600 leading-relaxed">
